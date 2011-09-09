@@ -15,7 +15,7 @@
  *  along with this software.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package org.openaion.usercommands;
+package usercommands;
 
 
 import gameserver.configs.main.CustomConfig;

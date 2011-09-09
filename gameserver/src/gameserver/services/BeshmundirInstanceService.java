@@ -162,7 +162,7 @@ public class BeshmundirInstanceService
         {
             SpawnTemplate spawn;
             //Rift Orb
-            spawn = SpawnEngine.getInstance().addNewSpawn(300170000, group.getGroupLeader().getInstanceId(), 730275, 1611.1663f, 1604.7267f, 311.04984f, (byte)0, 0, 0, true);
+            spawn = SpawnEngine.getInstance().addNewSpawn(300170000, group.getGroupLeader().getInstanceId(), 730275, 1611.1663f, 1604.7267f, 310.20187f, (byte)0, 0, 0, true);
             SpawnEngine.getInstance().spawnObject(spawn, group.getGroupLeader().getInstanceId());
         }
     }

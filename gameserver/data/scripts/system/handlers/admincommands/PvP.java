@@ -1,4 +1,4 @@
-package org.openaion.admincommands;
+package admincommands;
 
 import gameserver.configs.administration.AdminConfig;
 import gameserver.model.gameobjects.player.Player;
